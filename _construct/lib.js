@@ -1,0 +1,6 @@
+// @koala-prepend "vendor/requirejs/js/require.js"
+// @koala-prepend "js/config.js"
+// @koala-prepend "vendor/modernizr/js/modernizr.js"
+// @koala-prepend "vendor/foundation/js/foundation.js"
+// @koala-prepend "vendor/jquery-scrollspy/jquery-scrollspy.js"
+// @koala-prepend "vendor/owl-carousel/owl.carousel.min.js"
